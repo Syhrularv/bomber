@@ -10,5 +10,5 @@ $ pkg install git
 $ git clone https://github.com/Syhrularv/bomber
 $ cd bomber
 $ chmod +x bom
-$ ./bom
+$ bash bom
 ```
