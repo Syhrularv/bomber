@@ -2,9 +2,11 @@
 Tools pembuat virus bom atau lainya yg tertera, tools ini gaada efeknya ke lu karna lu cuma pembuat virusnya.
 Hasil virus yg lu buat tadi ada di folder output share virus tsb ke korban ketika korban menjalankan script tsb nah rasakan sensasinya :D
 <br>
+Jika bermasalah atau lu kesulitan contact author
 # Usage
 ```
-$ pkg update upgrade
+$ pkg update
+$ pkg upgrade
 $ pkg install python2
 $ pkg install git
 $ git clone https://github.com/Syhrularv/bomber
